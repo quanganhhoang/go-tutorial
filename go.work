@@ -1,0 +1,8 @@
+go 1.19
+
+use (
+	./data-access
+	./example
+	./hello
+	web-service-gin
+)
